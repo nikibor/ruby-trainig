@@ -40,21 +40,21 @@
 //  padding: 0 5px 7px;
 //}
 //
-//div {
-//  &.field, &.actions {
-//    margin-bottom: 10px;
-//  }
-//}
+div {
+  &.field, &.actions {
+    margin-bottom: 10px;
+  }
+}
 //
 //#notice {
 //  color: green;
 //}
 //
-//.field_with_errors {
-//  padding: 2px;
-//  background-color: red;
-//  display: table;
-//}
+.field_with_errors {
+  padding: 2px;
+  background-color: red;
+  display: table;
+}
 //
 //#error_explanation {
 //  width: 450px;

@@ -11,7 +11,7 @@ gem 'rails', '~> 5.1.4'
 # Use sqlite3 as the database for Active Record
 # gem 'sqlite3'
 gem 'pg'
-gem 'bootstrap'
+gem 'bootstrap', '~> 4.0.0.beta'
 gem 'sprockets-rails', :require => 'sprockets/railtie'
 gem 'slim-rails'
 # Use Puma as the app server
