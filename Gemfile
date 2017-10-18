@@ -15,6 +15,7 @@ gem 'react-rails'
 gem 'bootstrap', '~> 4.0.0.beta'
 gem 'sprockets-rails', :require => 'sprockets/railtie'
 gem 'slim-rails'
+gem 'rspec'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
